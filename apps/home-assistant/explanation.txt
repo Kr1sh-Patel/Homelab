@@ -1,0 +1,1 @@
+Refer to my blog <link> to deploy a home-assistant on your own local kubernetes cluster.
